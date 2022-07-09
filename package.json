@@ -1,0 +1,23 @@
+{
+  "name": "m-test",
+  "version": "1.0.0",
+  "description": "\"# Game-of-War---Cards\"",
+  "main": "War Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamGC13/Game-of-War---Cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamGC13/Game-of-War---Cards/issues"
+  },
+  "homepage": "https://github.com/WilliamGC13/Game-of-War---Cards#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
